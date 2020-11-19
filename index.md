@@ -1,5 +1,3 @@
-youtubeId: ICoIFynmPzw
-
 ## John A Sharifi
 
 # Professional contributions
