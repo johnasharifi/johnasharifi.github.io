@@ -1,7 +1,7 @@
 ## John A Sharifi
 
 # Professional contributions
-- Maintain the [LeiaLoft Unity SDK](https://www.leialoft.com/tools). The LeiaLoft Unity SDK creates a rig of stereo pairs of parallax / stereo cameras which all converge on a single plane
+- Maintain the [LeiaLoft Unity SDK](https://www.leialoft.com/tools). The LeiaLoft Unity SDK creates a rig of stereo pairs of parallax cameras which all converge on a single plane
 - Maintain CICD processes for the LeiaLoft Unity SDK
 <img src="/_resources/UnitySDK_CICD.png?raw=true" height="100" width="177">
 - Shipped Unity SDK 0.6.x to public and internal users
