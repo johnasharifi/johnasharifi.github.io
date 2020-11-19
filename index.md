@@ -4,7 +4,7 @@
 - Maintain the [LeiaLoft Unity SDK](https://www.leialoft.com/tools). The LeiaLoft Unity SDK creates a rig of stereo pairs of parallax cameras which all converge on a single plane
 - Maintain CICD processes for the LeiaLoft Unity SDK
 
-<img src="https://github.com/johnasharifi/johnasharifi.github.io/blob/main/_resources/UnitySDK_CICD.png" width="400" height="225">
+<img src="https://raw.githubusercontent.com/johnasharifi/johnasharifi.github.io/main/_resources/UnitySDK_CICD.png" width="400" height="225">
 
 - Shipped Unity SDK 0.6.x to public and internal users
 
