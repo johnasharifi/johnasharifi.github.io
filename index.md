@@ -1,3 +1,5 @@
+youtubeId: ICoIFynmPzw
+
 ## John A Sharifi
 
 # Professional contributions
@@ -7,11 +9,17 @@
 - Shipped Unity SDK 0.6.x to public and internal users
 
 # Personal interests
+
 - Inverse kinematics
-[![Watch the video](https://img.youtube.com/vi/ICoIFynmPzw/maxresdefault.jpg)](https://youtu.be/ICoIFynmPzw)
-// TODO embed youtube player and set width - https://github.com/nathancy/jekyll-embed-video
+
+{% include youtubePlayer.html id="ICoIFynmPzw" %}
+
+{% include youtubePlayer.html id=ICoIFynmPzw %}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ICoIFynmPzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - C# and HLSL shader programming for 3D rendering in Unity
-[![Watch the video](https://img.youtube.com/vi/kXaB1GFD2C4/maxresdefault.jpg)](https://youtu.be/kXaB1GFD2C4)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kXaB1GFD2C4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Academic contributions - out of date
 - [ChemmineR](https://rdrr.io/github/girke-lab/ChemmineR-release/man/draw_sdf.html) in R
