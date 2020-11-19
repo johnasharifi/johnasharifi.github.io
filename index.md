@@ -11,6 +11,11 @@ youtubeId: ICoIFynmPzw
 # Personal interests
 
 - Inverse kinematics
+
+{% include youtubePlayer.html id="ICoIFynmPzw" %}
+
+{% include youtubePlayer.html id=ICoIFynmPzw %}
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ICoIFynmPzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - C# and HLSL shader programming for 3D rendering in Unity
